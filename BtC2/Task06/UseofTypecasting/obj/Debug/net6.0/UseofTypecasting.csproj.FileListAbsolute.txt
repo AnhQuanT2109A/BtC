@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\Task06\UseofTypecasting\bin\Debug\net6.0\UseofTypecasting.exe
+C:\Users\quand\source\repos\Task06\UseofTypecasting\bin\Debug\net6.0\UseofTypecasting.deps.json
+C:\Users\quand\source\repos\Task06\UseofTypecasting\bin\Debug\net6.0\UseofTypecasting.runtimeconfig.json
+C:\Users\quand\source\repos\Task06\UseofTypecasting\bin\Debug\net6.0\UseofTypecasting.dll
+C:\Users\quand\source\repos\Task06\UseofTypecasting\bin\Debug\net6.0\UseofTypecasting.pdb
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\UseofTypecasting.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\UseofTypecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\UseofTypecasting.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\UseofTypecasting.AssemblyInfo.cs
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\UseofTypecasting.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\UseofTypecasting.dll
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\refint\UseofTypecasting.dll
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\UseofTypecasting.pdb
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\UseofTypecasting.genruntimeconfig.cache
+C:\Users\quand\source\repos\Task06\UseofTypecasting\obj\Debug\net6.0\ref\UseofTypecasting.dll

@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\IF-ELSE\SamSung\bin\Debug\net6.0\DaysOfMonth.exe
+C:\Users\quand\source\repos\IF-ELSE\SamSung\bin\Debug\net6.0\DaysOfMonth.deps.json
+C:\Users\quand\source\repos\IF-ELSE\SamSung\bin\Debug\net6.0\DaysOfMonth.runtimeconfig.json
+C:\Users\quand\source\repos\IF-ELSE\SamSung\bin\Debug\net6.0\DaysOfMonth.dll
+C:\Users\quand\source\repos\IF-ELSE\SamSung\bin\Debug\net6.0\DaysOfMonth.pdb
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\DaysOfMonth.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\DaysOfMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\DaysOfMonth.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\DaysOfMonth.AssemblyInfo.cs
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\DaysOfMonth.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\DaysOfMonth.dll
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\refint\DaysOfMonth.dll
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\DaysOfMonth.pdb
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\DaysOfMonth.genruntimeconfig.cache
+C:\Users\quand\source\repos\IF-ELSE\SamSung\obj\Debug\net6.0\ref\DaysOfMonth.dll

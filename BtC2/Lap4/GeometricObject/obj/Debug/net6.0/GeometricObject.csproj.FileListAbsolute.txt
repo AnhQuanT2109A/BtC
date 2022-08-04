@@ -1,0 +1,5 @@
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObject.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObject.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObject.AssemblyInfo.cs
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObject.csproj.CoreCompileInputs.cache

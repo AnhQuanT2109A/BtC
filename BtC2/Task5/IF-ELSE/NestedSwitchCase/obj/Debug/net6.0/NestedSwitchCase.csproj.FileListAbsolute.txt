@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\NestedSwitchCase.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\NestedSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\NestedSwitchCase.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\NestedSwitchCase.AssemblyInfo.cs
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\NestedSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\bin\Debug\net6.0\NestedSwitchCase.exe
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\bin\Debug\net6.0\NestedSwitchCase.deps.json
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\bin\Debug\net6.0\NestedSwitchCase.runtimeconfig.json
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\bin\Debug\net6.0\NestedSwitchCase.dll
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\bin\Debug\net6.0\NestedSwitchCase.pdb
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\NestedSwitchCase.dll
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\refint\NestedSwitchCase.dll
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\NestedSwitchCase.pdb
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\NestedSwitchCase.genruntimeconfig.cache
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase\obj\Debug\net6.0\ref\NestedSwitchCase.dll

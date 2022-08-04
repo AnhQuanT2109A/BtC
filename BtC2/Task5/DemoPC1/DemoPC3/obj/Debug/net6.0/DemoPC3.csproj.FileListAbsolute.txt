@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\bin\Debug\net6.0\DemoPC3.exe
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\bin\Debug\net6.0\DemoPC3.deps.json
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\bin\Debug\net6.0\DemoPC3.runtimeconfig.json
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\bin\Debug\net6.0\DemoPC3.dll
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\bin\Debug\net6.0\DemoPC3.pdb
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\DemoPC3.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\DemoPC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\DemoPC3.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\DemoPC3.AssemblyInfo.cs
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\DemoPC3.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\DemoPC3.dll
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\refint\DemoPC3.dll
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\DemoPC3.pdb
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\DemoPC3.genruntimeconfig.cache
+C:\Users\quand\source\repos\DemoPC1\DemoPC3\obj\Debug\net6.0\ref\DemoPC3.dll

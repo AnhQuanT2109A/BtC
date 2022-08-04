@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\bin\Debug\net6.0\IF-ELSE.exe
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\bin\Debug\net6.0\IF-ELSE.deps.json
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\bin\Debug\net6.0\IF-ELSE.runtimeconfig.json
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\bin\Debug\net6.0\IF-ELSE.dll
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\bin\Debug\net6.0\IF-ELSE.pdb
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\IF-ELSE.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\IF-ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\IF-ELSE.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\IF-ELSE.AssemblyInfo.cs
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\IF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\IF-ELSE.dll
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\refint\IF-ELSE.dll
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\IF-ELSE.pdb
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\IF-ELSE.genruntimeconfig.cache
+C:\Users\quand\source\repos\IF-ELSE\IF-ELSE\obj\Debug\net6.0\ref\IF-ELSE.dll

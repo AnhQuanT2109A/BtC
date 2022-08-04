@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricObjectDemo", "GeometricObject\GeometricObjectDemo.csproj", "{02670A88-E043-4469-8007-4636439FB5D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexersDemo", "IndexersDemo\IndexersDemo.csproj", "{9D320F10-6F0B-48DB-A0BC-4BA2D76C211E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02670A88-E043-4469-8007-4636439FB5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02670A88-E043-4469-8007-4636439FB5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02670A88-E043-4469-8007-4636439FB5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02670A88-E043-4469-8007-4636439FB5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D320F10-6F0B-48DB-A0BC-4BA2D76C211E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D320F10-6F0B-48DB-A0BC-4BA2D76C211E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D320F10-6F0B-48DB-A0BC-4BA2D76C211E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D320F10-6F0B-48DB-A0BC-4BA2D76C211E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {059DF468-8736-4CC7-AF4B-B0DDA6865054}
+	EndGlobalSection
+EndGlobal

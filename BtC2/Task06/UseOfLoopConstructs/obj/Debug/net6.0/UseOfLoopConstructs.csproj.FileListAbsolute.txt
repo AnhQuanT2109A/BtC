@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\bin\Debug\net6.0\UseOfLoopConstructs.exe
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\bin\Debug\net6.0\UseOfLoopConstructs.deps.json
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\bin\Debug\net6.0\UseOfLoopConstructs.runtimeconfig.json
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\bin\Debug\net6.0\UseOfLoopConstructs.dll
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\bin\Debug\net6.0\UseOfLoopConstructs.pdb
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\UseOfLoopConstructs.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\UseOfLoopConstructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\UseOfLoopConstructs.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\UseOfLoopConstructs.AssemblyInfo.cs
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\UseOfLoopConstructs.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\UseOfLoopConstructs.dll
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\refint\UseOfLoopConstructs.dll
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\UseOfLoopConstructs.pdb
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\UseOfLoopConstructs.genruntimeconfig.cache
+C:\Users\quand\source\repos\Task06\UseOfLoopConstructs\obj\Debug\net6.0\ref\UseOfLoopConstructs.dll

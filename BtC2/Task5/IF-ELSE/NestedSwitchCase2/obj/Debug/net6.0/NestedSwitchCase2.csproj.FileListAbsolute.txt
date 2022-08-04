@@ -1,0 +1,5 @@
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase2\obj\Debug\net6.0\NestedSwitchCase2.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase2\obj\Debug\net6.0\NestedSwitchCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase2\obj\Debug\net6.0\NestedSwitchCase2.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase2\obj\Debug\net6.0\NestedSwitchCase2.AssemblyInfo.cs
+C:\Users\quand\source\repos\IF-ELSE\NestedSwitchCase2\obj\Debug\net6.0\NestedSwitchCase2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObjectDemo.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObjectDemo.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObjectDemo.AssemblyInfo.cs
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\Lap4\GeometricObject\bin\Debug\net6.0\GeometricObjectDemo.exe
+C:\Users\quand\source\repos\Lap4\GeometricObject\bin\Debug\net6.0\GeometricObjectDemo.deps.json
+C:\Users\quand\source\repos\Lap4\GeometricObject\bin\Debug\net6.0\GeometricObjectDemo.runtimeconfig.json
+C:\Users\quand\source\repos\Lap4\GeometricObject\bin\Debug\net6.0\GeometricObjectDemo.dll
+C:\Users\quand\source\repos\Lap4\GeometricObject\bin\Debug\net6.0\GeometricObjectDemo.pdb
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObjectDemo.dll
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\refint\GeometricObjectDemo.dll
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObjectDemo.pdb
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\GeometricObjectDemo.genruntimeconfig.cache
+C:\Users\quand\source\repos\Lap4\GeometricObject\obj\Debug\net6.0\ref\GeometricObjectDemo.dll

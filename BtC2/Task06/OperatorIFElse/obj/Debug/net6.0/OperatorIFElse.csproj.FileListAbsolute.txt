@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\Task06\OperatorIFElse\bin\Debug\net6.0\OperatorIFElse.exe
+C:\Users\quand\source\repos\Task06\OperatorIFElse\bin\Debug\net6.0\OperatorIFElse.deps.json
+C:\Users\quand\source\repos\Task06\OperatorIFElse\bin\Debug\net6.0\OperatorIFElse.runtimeconfig.json
+C:\Users\quand\source\repos\Task06\OperatorIFElse\bin\Debug\net6.0\OperatorIFElse.dll
+C:\Users\quand\source\repos\Task06\OperatorIFElse\bin\Debug\net6.0\OperatorIFElse.pdb
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\OperatorIFElse.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\OperatorIFElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\OperatorIFElse.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\OperatorIFElse.AssemblyInfo.cs
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\OperatorIFElse.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\OperatorIFElse.dll
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\refint\OperatorIFElse.dll
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\OperatorIFElse.pdb
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\OperatorIFElse.genruntimeconfig.cache
+C:\Users\quand\source\repos\Task06\OperatorIFElse\obj\Debug\net6.0\ref\OperatorIFElse.dll

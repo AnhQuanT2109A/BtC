@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\SingleDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\SingleDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\SingleDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\SingleDimensionalArray.AssemblyInfo.cs
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\SingleDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\bin\Debug\net6.0\SingleDimensionalArray.exe
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\bin\Debug\net6.0\SingleDimensionalArray.deps.json
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\bin\Debug\net6.0\SingleDimensionalArray.runtimeconfig.json
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\bin\Debug\net6.0\SingleDimensionalArray.dll
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\bin\Debug\net6.0\SingleDimensionalArray.pdb
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\SingleDimensionalArray.dll
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\refint\SingleDimensionalArray.dll
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\SingleDimensionalArray.pdb
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\SingleDimensionalArray.genruntimeconfig.cache
+C:\Users\quand\source\repos\Task06\SingleDimensionalArray\obj\Debug\net6.0\ref\SingleDimensionalArray.dll

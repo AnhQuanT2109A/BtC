@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\bin\Debug\net6.0\SeccionObject.exe
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\bin\Debug\net6.0\SeccionObject.deps.json
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\bin\Debug\net6.0\SeccionObject.runtimeconfig.json
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\bin\Debug\net6.0\SeccionObject.dll
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\bin\Debug\net6.0\SeccionObject.pdb
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\SeccionObject.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\SeccionObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\SeccionObject.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\SeccionObject.AssemblyInfo.cs
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\SeccionObject.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\SeccionObject.dll
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\refint\SeccionObject.dll
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\SeccionObject.pdb
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\SeccionObject.genruntimeconfig.cache
+C:\Users\quand\source\repos\SeccionObject\SeccionObject\obj\Debug\net6.0\ref\SeccionObject.dll

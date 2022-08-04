@@ -1,0 +1,15 @@
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\bin\Debug\net6.0\ObjectArray.exe
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\bin\Debug\net6.0\ObjectArray.deps.json
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\bin\Debug\net6.0\ObjectArray.runtimeconfig.json
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\bin\Debug\net6.0\ObjectArray.dll
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\bin\Debug\net6.0\ObjectArray.pdb
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.AssemblyReference.cache
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfoInputs.cache
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfo.cs
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.CoreCompileInputs.cache
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\ObjectArray.dll
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\refint\ObjectArray.dll
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\ObjectArray.pdb
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\ObjectArray.genruntimeconfig.cache
+C:\Users\quand\source\repos\SeccionObject\ObjectArray\obj\Debug\net6.0\ref\ObjectArray.dll
