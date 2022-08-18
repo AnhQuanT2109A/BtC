@@ -24,7 +24,7 @@ app.config(function ($routeProvider) {
 });
 
 app.controller('HomeController', function ($scope) {
-    $scope.message = 'Đây là nội dung được gửi từ HomeController';
+    $scope.message = pages/about.html;
 });
 app.controller('MemberController', function ($scope) {
     $scope.message = 'Đây là nội dung được gửi từ MemberController';

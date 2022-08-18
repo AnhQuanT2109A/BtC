@@ -14,6 +14,6 @@
         double LateralArea = 2 * Math.PI * Radius * Height;
         double TotalArea = 2 * Math.PI * Radius * (Height + Radius);
         double Volume = Math.PI * Radius * Radius * Height;
-        Console.WriteLine("Base: " + BaseArea + " | Latera: " + LateralArea + " | Total: " + TotalArea + " | Volume: " + Volume);
+        Console.WriteLine("Base: " + Math.Round(BaseArea,2) + " | Latera: " + Math.Round(LateralArea ,2) + " | Total: " +Math.Round(TotalArea ,2) + " | Volume: " +Math.Round(Volume ,2));
     }
 }
